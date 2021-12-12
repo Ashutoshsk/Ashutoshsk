@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutoshsk
 - 👀 I’m interested in Mobile Application & Web Developement
-- 🌱 I’m currently learning Dart Programming , Spring Environment, ReactJS
+- 🌱 I’m currently learning Dart Programming , ReactJS
 - 💞️ I’m looking to collaborate on Mobile Application Developememt 
 - 📫 How to reach me ...
 
