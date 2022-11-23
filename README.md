@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ashutoshsk
-- 👀 I’m interested in Mobile Application & Web Developement
-- 🌱 I’m currently learning Dart Programming , ReactJS
-- 💞️ I’m looking to collaborate on Mobile Application Developememt 
-- 📫 How to reach me ...
+- 👀 I’m interested in Back-End Developement.
+- 🌱 I’m currently learning Spring Framework.
+- 💞️ I’m looking to collaborate on Web Developement
 
 <!---
 Ashutoshsk/Ashutoshsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
